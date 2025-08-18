@@ -1,4 +1,4 @@
-public class SwapWithout {
+public class SwapWithoutvar {
     public static void main(String[] args) {
         int a = 5;
         int b = 10;
